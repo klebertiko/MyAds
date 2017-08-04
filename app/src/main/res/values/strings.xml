@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAds</string>
+    <string name="app_id">ca-app-pub-7034001088533729~2722444809</string>
+    <string name="ad_unit_id" translatable="false">ca-app-pub-7034001088533729/3770790830</string>
+</resources>
